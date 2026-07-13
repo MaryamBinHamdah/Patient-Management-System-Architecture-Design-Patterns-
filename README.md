@@ -81,6 +81,4 @@ This project was a successful collaboration between:
 *   **Maryam BinHamdah** ([@MaryamBinHamdah](https://github.com/MaryamBinHamdah ))
 *   **Hessa Khalfan** ([@Heskal](https://github.com/Heskal ))
 
-
-
-Our teamwork was essential in tackling the diverse challenges of this project, from initial data exploration to the final model deployment.
+Our collective effort and effective communication were key to overcoming the complexities of this project.
